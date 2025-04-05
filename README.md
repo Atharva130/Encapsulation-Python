@@ -11,5 +11,4 @@ Encapsulation is an OOP concept that restricts direct access to the internal dat
 ## Topics to Learn
 - Creating and accessing public, protected, and private variables  
 - Using getter and setter methods  
-- Understanding name mangling in Python  
 - Controlling access to class data using encapsulation  
