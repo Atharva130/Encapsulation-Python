@@ -6,7 +6,7 @@ Encapsulation is an OOP concept that restricts direct access to the internal dat
 ## Key Concepts
 ### Access Specifiers ->
 - **Public Members**  
-- **Protected Members**  (`_single_underscore`)  
+- **Protected Members** -> (`_single_underscore`)  
 - **Private Members** (`__double_underscore`)  
 
 ## Topics to Learn
